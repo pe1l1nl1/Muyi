@@ -60,6 +60,6 @@ MUYI DApp
 All rights reserved@MUYI2022
 
 
-Content by 🐦 @Shane
+Content by 🐦 @Shane1007go
 Visual design by 🐦 @Vanvvaannv
-Service design by 🐦 @Klem
+Service design by 🐦 
