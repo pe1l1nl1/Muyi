@@ -1,2 +1,2 @@
-# Muyi
-Muyi DApp
+# MUYI
+MUYI DApp
